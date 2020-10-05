@@ -1,0 +1,15 @@
+<div class="introduction">
+	{{ with .Site.Params.services }}
+	<h3>Services</h3>
+	{{- range $index, $services := $.Site.Params.services -}}
+	<div class="content">{{ $services.content }}</div>
+	<ul>
+		{{ range $elem_index, $service := $services.item }}
+		<li>
+			{{ $service.dest | markdownify }}
+		</li>
+		{{ end }}
+	</ul>
+	{{- end -}}
+	{{- end -}}
+</div>
