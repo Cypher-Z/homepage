@@ -27,7 +27,9 @@ timeout=3000
 
 
 [[params.introduction.paragraph]]
-  text="""I'm a Ph.D. candidate in computer science and technology at Tsinghua University, advised by Haixin Duan. 
+  text="""I'm a Ph.D. candidate in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Haixin Duan. 
+  Currently, my research studies network security, with a particular interest in data-driven security and protocol security. 
+  I received my Bachelor degree in Fundamental Science of Mathematics and Physics from Tsinghua Univeristy in 2017. 
    """
 
 
