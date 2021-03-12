@@ -18,7 +18,7 @@ timeout=3000
 [[params.affilation]]
   name = "Network & Information Security Lab (NISL), Tsinghua University"
   position = "Research Assistant"
-  contact = "FIT Building, Tsinghua University, Beijing 100084, P.R.China"
+  contact = "FIT 4-204, Tsinghua University, Beijing 100084, P.R.China"
 
 [[params.social]]
   name = "GitHub"
