@@ -33,6 +33,12 @@ timeout=3000
 
 [[params.publications]]
   year="Conference"
+  
+  [[params.publications.paper]]
+    name = "From WHOIS to WHOWAS: A Large-Scale Measurement Study of Domain Registration Privacy under the GDPR"
+    authors = "Chaoyi Lu, Baojun Liu, **Yiming Zhang**, Zhou Li, Fenglu Zhang, Haixin Duan, Ying Liu, Joann Qiongna Chen, Jinjin Liang, Zaifeng Zhang, Shuang Hao and Min Yang"
+    dest  = "**[NDSS' 21]**"
+	link = "/ndss21.pdf"
 
   [[params.publications.paper]]
     name = "Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China"
