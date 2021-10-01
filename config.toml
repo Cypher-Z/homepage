@@ -45,6 +45,7 @@ timeout=3000
     name = "Rusted Anchors: A National Client-Side View of Hidden Root CAs in the Web PKI Ecosystem"
     authors = "**Yiming Zhang**, Baojun Liu, Chaoyi Lu, Zhou Li, Haixin Duan, Jiachen Li, Zaifeng Zhang"
     dest = "**[CCS' 21]**"
+  link = "/ccs21.pdf"
 
   [[params.publications.paper]]
     name = "On Evaluating Delegated Digital Signing of Broadcasting Messages in 5G"
