@@ -30,6 +30,12 @@
 			<span class="collaborators">
 				{{ $publication.authors | markdownify }}
 			</span>
+			
+			<span class="description">
+				{{ $publication.description | markdownify }}
+			</span>
+
+
 		</li>
 		{{ end }}
 	</ul>

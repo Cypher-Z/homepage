@@ -344,6 +344,10 @@ ul {
  margin: .5em .9em 0em;
 }
 
+.description {
+  margin: .5em .9em 0em;
+ }
+
 .section .section-header {
   font-size: 0.75rem;
   font-weight: 600;
