@@ -45,7 +45,7 @@ timeout=3000
   [[params.publications.paper]]
     name = "Rusted Anchors: A National Client-Side View of Hidden Root CAs in the Web PKI Ecosystem"
     authors = "**Yiming Zhang**, Baojun Liu, Chaoyi Lu, Zhou Li, Haixin Duan, Jiachen Li, Zaifeng Zhang."
-    dest = "**[CCS' 21]**"
+    dest = "**[CCS' 21]** [[Slides](https://cypher-z.github.io/CCS-21-20min.pdf)] [[Video](https://youtu.be/tb5FqxhRvZI)]"
     description = "*Media Coverage: [[The Register](https://www.theregister.com/2021/11/19/web_trust_certificates/)], [[Help Net Security](https://www.helpnetsecurity.com/2021/11/19/hidden-root-cas-ecosystem/)]*"
   link = "/ccs21.pdf"
 
