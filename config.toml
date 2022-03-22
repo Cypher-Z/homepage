@@ -37,6 +37,11 @@ timeout=3000
   year="Conference"
 
   [[params.publications.paper]]
+    name = "Measuring the Deployment of 5G Security Enhancement"
+    authors = "Shiyue Nie, **Yiming Zhang**, Tao Wan, Haixin Duan, Song Li"
+    dest = "**[WiSec' 22]**"
+
+  [[params.publications.paper]]
     name = "Detecting and Characterizing SMS Spearphising Attacks"
     authors = "Mingxuan Liu, **Yiming Zhang**, Baojun Liu, Zhou Li, Haixin Duan, Donghong Sun"
     dest = "**[ACSAC' 21]**"
@@ -53,6 +58,7 @@ timeout=3000
     name = "On Evaluating Delegated Digital Signing of Broadcasting Messages in 5G"
     authors = "Hui Gao, **Yiming Zhang**, Tao Wan, Jia Zhang, Haixin Duan"
     dest = "**[Globecom' 21]**"
+  link = "/globecom21.pdf"
   
   [[params.publications.paper]]
     name = "From WHOIS to WHOWAS: A Large-Scale Measurement Study of Domain Registration Privacy under the GDPR"
