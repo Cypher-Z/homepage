@@ -89,6 +89,11 @@ timeout=3000
   year="Journals"
 
   [[params.publications.paper]]
+		name = "Automatic Generation of Adversarial Readable Chinese Texts"
+		authors = "Mingxuan Liu, Zihan Zhang, **Yiming Zhang**, Chao Zhang, Zhou Li, Qi Li, Haixin Duan and Donghong Sun"
+		dest  = "**[TDSC' 22]**"
+
+  [[params.publications.paper]]
 		name = "教育类官网推广感染研究"
 		authors = "王郁，**张一铭**, 张甲，段海新"
 		dest  = "**通信学报**,2018.9, 39(Z1): 78~85"
