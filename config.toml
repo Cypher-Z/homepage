@@ -9,6 +9,7 @@ timeout=3000
   subtitle= "PhD Student"
   interests="Network Security, Data Driven Security"
   blog="http://netsec.ccert.edu.cn/people/zym17"
+  cv="/cv.pdf"
 
 [[params.affilation]]
   name = "Dept. of Computer Science and Technology, Tsinghua University"
