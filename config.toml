@@ -38,9 +38,15 @@ timeout=3000
   year="Conference"
 
   [[params.publications.paper]]
+    name = "Ethics in Security Research: Visions, Reality, and Paths Forward"
+    authors = "**Yiming Zhang**, Mingxuan Liu, Mingming Zhang, Chaoyi Lu, Haixin Duan"
+    dest = "**[EthiCS' 22]**"
+
+  [[params.publications.paper]]
     name = "Measuring the Deployment of 5G Security Enhancement"
     authors = "Shiyue Nie, **Yiming Zhang**, Tao Wan, Haixin Duan, Song Li"
     dest = "**[WiSec' 22]**"
+  link = "/wisec22.pdf"
 
   [[params.publications.paper]]
     name = "Detecting and Characterizing SMS Spearphising Attacks"
