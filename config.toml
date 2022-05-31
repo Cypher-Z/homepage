@@ -41,6 +41,7 @@ timeout=3000
     name = "Ethics in Security Research: Visions, Reality, and Paths Forward"
     authors = "**Yiming Zhang**, Mingxuan Liu, Mingming Zhang, Chaoyi Lu, Haixin Duan"
     dest = "**[EthiCS' 22]**"
+  link = "/ethics22.pdf"
 
   [[params.publications.paper]]
     name = "Measuring the Deployment of 5G Security Enhancement"
@@ -99,6 +100,7 @@ timeout=3000
 		name = "Automatic Generation of Adversarial Readable Chinese Texts"
 		authors = "Mingxuan Liu, Zihan Zhang, **Yiming Zhang**, Chao Zhang, Zhou Li, Qi Li, Haixin Duan and Donghong Sun"
 		dest  = "**[TDSC' 22]**"
+  link = "/tdsc22.pdf"
 
   [[params.publications.paper]]
 		name = "教育类官网推广感染研究"
