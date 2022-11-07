@@ -6,20 +6,16 @@ publishDir = "docs"
 timeout=3000
 
 [params]
-  subtitle= "PhD Student"
-  interests="Network Security, Data Driven Security"
+  subtitle= "Postdoctoral Researcher"
+  interests="Network Security, Cellular System Security"
   blog="http://netsec.ccert.edu.cn/people/zym17"
   cv_name="/cv.pdf"
 
 [[params.affilation]]
-  name = "Dept. of Computer Science and Technology, Tsinghua University"
-  position = "PhD Student"
-  contact = "zhangyim17@tsinghua.org.cn, zhangyim17@mails.tsinghua.edu.cn(expire in Dec 2022)"
+  name = "Institute of Network Sciences and Cyberspace, Tsinghua University"
+  position = "Postdoctoral Researcher"
+  contact = "zhangyiming@tsinghua.edu.cn, zhangyim17@mails.tsinghua.edu.cn(expire in Dec 2022)"
 
-[[params.affilation]]
-  name = "Network & Information Security Lab (NISL), Tsinghua University"
-  position = "Research Assistant"
-  contact = "FIT 4-204, Tsinghua University, Beijing 100084, P.R.China"
 
 [[params.social]]
   name = "GitHub"
@@ -28,14 +24,19 @@ timeout=3000
 
 
 [[params.introduction.paragraph]]
-  text="""I'm a Ph.D. candidate in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Haixin Duan. 
-  Currently, my research studies network security, with a particular interest in data-driven security and protocol security. 
-  I received my Bachelor degree in Fundamental Science of Mathematics and Physics from Tsinghua Univeristy in 2017. 
-   """
+  text="""I'm a postdoctoral researcher at Tsinghua University, working with Prof. Haixin Duan. Currently, my research studies network (PKI, DNS and Cybercrime) security and cellular system (5G) security. I received my Doctoral degree in Computer
+  Science and Technology at Tsinghua University in 2022, and also received my Bachelor degree in Fundamental Science of Mathematics and Physics from Tsinghua Univeristy in 2017.
+  """
 
 
 [[params.publications]]
   year="Conference"
+
+  [[params.publications.paper]]
+    name = "Exploring the Characteristics and Security Risks of Emerging Emoji Domain Names"
+    authors = "Mingxuan Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan"
+    dest = "**[ESORICS' 22]**"
+  link = "/esorics22.pdf"
 
   [[params.publications.paper]]
     name = "Ethics in Security Research: Visions, Reality, and Paths Forward"
