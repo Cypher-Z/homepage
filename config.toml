@@ -33,6 +33,11 @@ timeout=3000
   year="Conference"
 
   [[params.publications.paper]]
+    name = "Detecting and Measuring Security Risks of Hosting-Based Dangling Domains"
+    authors = "Mingming Zhang, Xiang Li, Baojun Liu, Jianyu Lu, **Yiming Zhang**, Jianjun Chen, Haixin Duan, Shuang Hao, Xiaofeng Zheng"
+    dest = "**[SIGMETRICS' 23]**"
+
+  [[params.publications.paper]]
     name = "Exploring the Characteristics and Security Risks of Emerging Emoji Domain Names"
     authors = "Mingxuan Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan"
     dest = "**[ESORICS' 22]**"
