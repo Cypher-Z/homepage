@@ -36,6 +36,7 @@ timeout=3000
     name = "Detecting and Measuring Security Risks of Hosting-Based Dangling Domains"
     authors = "Mingming Zhang, Xiang Li, Baojun Liu, Jianyu Lu, **Yiming Zhang**, Jianjun Chen, Haixin Duan, Shuang Hao, Xiaofeng Zheng"
     dest = "**[SIGMETRICS' 23]**"
+  link = "/sigmetrics23.pdf"
 
   [[params.publications.paper]]
     name = "Exploring the Characteristics and Security Risks of Emerging Emoji Domain Names"
