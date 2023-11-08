@@ -1,0 +1,15 @@
+<div class="introduction">
+	{{ with .Site.Params.fundings }}
+	<h3>Fundings</h3>
+	{{- range $index, $fundings := $.Site.Params.fundings -}}
+	<div class="content">{{ $fundings.content }}</div>
+	<ul>
+		{{ range $elem_index, $funding := $fundings.item }}
+		<li>
+			{{ $funding.dest | markdownify }}
+		</li>
+		{{ end }}
+	</ul>
+	{{- end -}}
+	{{- end -}}
+</div>
