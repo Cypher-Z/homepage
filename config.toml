@@ -14,7 +14,7 @@ timeout=3000
 [[params.affilation]]
   name = "Institute of Network Sciences and Cyberspace, Tsinghua University"
   position = "Postdoc"
-  contact = "zhangyiming@tsinghua.edu.cn, zhangyim17@mails.tsinghua.edu.cn(expire in Dec 2022)"
+  contact = "zhangyiming@tsinghua.edu.cn, zhangyiming0525@gmail.com"
 
 
 [[params.social]]
@@ -31,6 +31,11 @@ timeout=3000
 
 [[params.publications]]
   year="Conference"
+  [[params.publications.paper]]
+    name = "Understanding the Implementation and Security Implications of Protective DNS Services"
+    authors = "Mingxuan Liu, **Yiming Zhang**, Xiang Li, Chaoyi Lu, Baojun Liu, Haixin Duan, Xiaofeng Zheng"
+    dest = "**[NDSS' 24]**"
+
 
   [[params.publications.paper]]
     name = "Detecting and Measuring Security Risks of Hosting-Based Dangling Domains"
