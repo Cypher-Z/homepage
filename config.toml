@@ -123,6 +123,15 @@ timeout=3000
   content="External Reviewer"
   [[params.services.item]]
 		dest = "ESORICS’18,19; ICICS’19; DSN’20; NDSS'20,22"
+
+
+[[params.services]]
+  content="Program Committee"
+  [[params.services.item]]
+		dest = "Artificial Evaluate Committee, CoNEXT 2023"
+  [[params.services.item]]
+		dest = "Technical Committee, Securecomm 2023"
+
   
 
 
