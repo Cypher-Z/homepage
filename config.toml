@@ -35,6 +35,7 @@ timeout=3000
     name = "Understanding the Implementation and Security Implications of Protective DNS Services"
     authors = "Mingxuan Liu, **Yiming Zhang**, Xiang Li, Chaoyi Lu, Baojun Liu, Haixin Duan, Xiaofeng Zheng"
     dest = "**[NDSS' 24]**"
+  link = "/ndss24.pdf"
 
 
   [[params.publications.paper]]
