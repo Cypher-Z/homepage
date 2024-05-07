@@ -32,6 +32,11 @@ timeout=3000
 [[params.publications]]
   year="Conference"
   [[params.publications.paper]]
+    name = "Tickets or Privacy? Understand the Ecosystem of Mobile Ticket  Grabbing Apps"
+    authors = "Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao"
+    dest = "**[USENIX Security' 24]**"
+
+  [[params.publications.paper]]
     name = "Uncovering Security Vulnerabilities in Real-world Implementation and Deployment of 5G Messaging Services"
     authors = "Yaru Yang, **Yiming Zhang**, Tao Wan, Chuhan Wang, Haixin Duan, Jianjun Chen, Yishen Li"
     dest = "**[WiSec' 24]**"
