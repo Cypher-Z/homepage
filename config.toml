@@ -35,6 +35,7 @@ timeout=3000
     name = "Uncovering Security Vulnerabilities in Real-world Implementation and Deployment of 5G Messaging Services"
     authors = "Yaru Yang, **Yiming Zhang**, Tao Wan, Chuhan Wang, Haixin Duan, Jianjun Chen, Yishen Li"
     dest = "**[WiSec' 24]**"
+  link = "/wisec24.pdf"
 
 
   [[params.publications.paper]]
