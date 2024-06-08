@@ -31,6 +31,12 @@ timeout=3000
 
 [[params.publications]]
   year="Conference"
+   [[params.publications.paper]]
+    name = "Into the Dark: Unveiling Internal Site Search Abused for BlackHat SEO"
+    authors = "Yunyi Zhang, Mingxuan Liu, Baojun Liu, **Yiming Zhang**, Haixin Duan, Min Zhang, Hui Jiang, Yanzhe Li, Fan Shi"
+    dest = "**[USENIX Security' 24]**"
+
+
   [[params.publications.paper]]
     name = "Tickets or Privacy? Understand the Ecosystem of Mobile Ticket  Grabbing Apps"
     authors = "Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao"
