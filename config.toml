@@ -35,12 +35,14 @@ timeout=3000
     name = "Into the Dark: Unveiling Internal Site Search Abused for BlackHat SEO"
     authors = "Yunyi Zhang, Mingxuan Liu, Baojun Liu, **Yiming Zhang**, Haixin Duan, Min Zhang, Hui Jiang, Yanzhe Li, Fan Shi"
     dest = "**[USENIX Security' 24]**"
+  link = "/usenix24-seo.pdf"
 
 
   [[params.publications.paper]]
     name = "Tickets or Privacy? Understand the Ecosystem of Mobile Ticket  Grabbing Apps"
     authors = "Yijing Liu, **Yiming Zhang**, Baojun Liu, Haixin Duan, Qiang Li, Mingxuan Liu, Ruixuan Li, Jia Yao"
     dest = "**[USENIX Security' 24]**"
+  link = "/usenix24-ticket.pdf"
 
   [[params.publications.paper]]
     name = "Uncovering Security Vulnerabilities in Real-world Implementation and Deployment of 5G Messaging Services"
