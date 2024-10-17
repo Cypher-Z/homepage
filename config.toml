@@ -28,6 +28,21 @@ timeout=3000
   Science and Technology at Tsinghua University in 2022, and also received my Bachelor degree in Fundamental Science of Mathematics and Physics from Tsinghua Univeristy in 2017.
   """
 
+[[params.publications]]
+  year="Conference"
+   [[params.publications.paper]]
+    name = "Invade the Walled Garden: Evaluating GTP Security in Cellular Networks"
+    authors = "**Yiming Zhang**, Tao Wan, Yaru Yang, Haixin Duan, Yichen Wang, Jianjun Chen, Zixiang Wei, Xiang Li"
+    dest = "**[S&P' 25]**"
+
+
+[[params.publications]]
+  year="Conference"
+   [[params.publications.paper]]
+    name = "Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange"
+    authors = "Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, **Yiming Zhang**, Haixin Duan, Mingwei Xu, Haixin Duan"
+    dest = "**[NDSS' 25]**"
+
 
 [[params.publications]]
   year="Conference"
@@ -110,7 +125,7 @@ timeout=3000
   [[params.publications.paper]]
     name = "Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China"
     authors = "**Yiming Zhang**, Baojun Liu, Chaoyi Lu, Zhou Li, Haixin Duan, Shuang Hao, Mingxuan Liu, Ying Liu, Dong Wang and Qiang Li"
-    dest  = "**[ACM CCS' 20]**"
+    dest  = "**[CCS' 20]**"
 	link = "/ccs20.pdf"
 	blog_link = "https://github.com/Cypher-Z/FBS_SMS_Dataset"
 
