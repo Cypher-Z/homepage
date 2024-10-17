@@ -37,7 +37,6 @@ timeout=3000
 
 
 [[params.publications]]
-  year="Conference"
    [[params.publications.paper]]
     name = "Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange"
     authors = "Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, **Yiming Zhang**, Haixin Duan, Mingwei Xu, Haixin Duan"
@@ -45,7 +44,6 @@ timeout=3000
 
 
 [[params.publications]]
-  year="Conference"
    [[params.publications.paper]]
     name = "Into the Dark: Unveiling Internal Site Search Abused for BlackHat SEO"
     authors = "Yunyi Zhang, Mingxuan Liu, Baojun Liu, **Yiming Zhang**, Haixin Duan, Min Zhang, Hui Jiang, Yanzhe Li, Fan Shi"
