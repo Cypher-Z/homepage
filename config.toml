@@ -35,6 +35,13 @@ timeout=3000
     authors = "**Yiming Zhang**, Tao Wan, Yaru Yang, Haixin Duan, Yichen Wang, Jianjun Chen, Zixiang Wei, Xiang Li"
     dest = "**[S&P' 25]**"
 
+[[params.publications]]
+   [[params.publications.paper]]
+    name = "Automatic Insecurity: Exploring Email Auto-configuration in the Wild"
+    authors = "Shushang Wen, **Yiming Zhang**, Yuxiang Shen, Bingyu Li, Haixin Duan, Jingqiang Lin"
+    dest = "**[NDSS' 25]**"
+
+
 
 [[params.publications]]
    [[params.publications.paper]]
